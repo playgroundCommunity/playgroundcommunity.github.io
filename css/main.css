@@ -1,0 +1,11 @@
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+.ui.header {
+  font-family: 'Pacifico', cursive;
+}
+h2.ui.header, h5.ui.header {
+  font-family: 'Quicksand', cursive;
+  font-weight: normal;
+}
